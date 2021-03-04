@@ -1,0 +1,16 @@
+{
+  "name": "express-react-auth-sequelize-socket.io-typescript-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "scripts": {},
+  "dependencies": {
+    "typescript": "^4.1.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.2",
+    "@typescript-eslint/parser": "^4.15.2",
+    "eslint": "^7.20.0"
+  },
+  "license": "ISC"
+}

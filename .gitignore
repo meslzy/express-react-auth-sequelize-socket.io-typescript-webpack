@@ -1,0 +1,12 @@
+.idea/
+
+node_modules/
+back/node_modules/
+front/node_modules/
+
+back/dist/
+front/dist/
+
+yarn.lock
+back/yarn.lock
+front/yarn.lock
